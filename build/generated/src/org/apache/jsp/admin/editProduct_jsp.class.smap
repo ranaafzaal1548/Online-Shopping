@@ -1,0 +1,30 @@
+SMAP
+editProduct_jsp.java
+JSP
+*S JSP
+*F
++ 0 editProduct.jsp
+admin/editProduct.jsp
++ 1 adminHeader.jsp
+admin/adminHeader.jsp
++ 2 footer.jsp
+admin/../footer.jsp
+*L
+1,4:54
+1#1,26:58
+4#0,2:83
+1#2,3:84
+5#0,16:87
+21,7:104
+27,3:111
+30:114,3
+31,2:117
+33:119,3
+34,5:122
+39:127,3
+40,5:130
+45:135,3
+46,14:138
+60,7:153
+66,7:160
+*E
